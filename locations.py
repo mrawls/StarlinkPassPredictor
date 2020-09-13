@@ -44,3 +44,7 @@ locations["Bok"] = bok
 #Lemmon
 lemmon = Topos(32.44257, -110.7889, elevation_m=2805)
 locations["Lemmon"] = lemmon
+
+#APO
+apo = Topos(32.780278, -105.820278, elevation_m=2788)
+locations["APO"] = apo
